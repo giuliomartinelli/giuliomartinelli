@@ -1,1 +1,2 @@
-A developer with serious mental problems
+## Giulio Augusto Martinelli
+#### Node.js | React | PHP Software Engineer
