@@ -1,5 +1,5 @@
 ## Giulio Augusto Martinelli
-#### Node.js | React | PHP Software Engineer
+#### Software Engineer | Node.js | PHP | Java | Python | AWS
 
 Software Developer Specializing in RestFull APIs and Microservices
 
