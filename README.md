@@ -1,39 +1,42 @@
 ## Giulio Augusto Martinelli
-#### Software Engineer | Node.js | PHP | Java | Python | AWS
+#### Software Engineer | Node.js | Java | React
 
-Software Developer Specializing in RestFull APIs and Microservices
+Fullstack Developer specializing in RESTful APIs and microservices
 
-With a 14-year trajectory in the development field, I stand out as a specialist in RestFull APIs and Microservices architecture. My experience ranges from creating dynamic user interfaces to developing complex backend services, always focusing on quality and delivering value.
+With a 15-year trajectory in the development field, I stand out as a specialist in RestFull APIs and Microservices architecture. My experience ranges from creating dynamic user interfaces to developing complex backend services, always focusing on quality and delivering value.
 
 ##### Professional Experience:
-- 14 years of experience as a developer, with a strong emphasis on RestFull APIs and Microservices.
+- 15 years of experience as a Fullstack Developer, with a strong focus on RESTful APIs and Microservices.
+- Proven track record in high-performance, scalable projects focused on complex integrations.
+- Hands-on experience with Java (Spring Boot) and Node.js (NestJS), building modern and efficient solutions centered on RESTful APIs and microservices.
 
 ##### Backend:
-- Proficiency in JavaScript, TypeScript, Node.js, Express, and NestJS.
-- Robust experience with PHP and Laravel.
-- Advanced knowledge in Java and Spring Boot.
+- Proficient in JavaScript, TypeScript, Node.js, Express, NestJS, and TypeORM.
+- Extensive experience with Java 17 and Java 21, Spring Boot, Spring MVC, Spring Data, Spring Security, and Hibernate.
+- Strong background in PHP and Laravel.
 - Efficient development with Python and Django.
 
 ##### Frontend:
-- Engaging user interface creation with Vue, Reactjs, Nextjs.
-- Expertise in JQuery, JQueryUI, HTML5, and CSS3.
+- Development of modern and responsive interfaces using React, Next.js, and Vue.js.
+- Solid experience with Material Design and MUI (Material UI) for React.
+- Skilled in using Bootstrap for responsive and scalable layouts.
+- Expertise in jQuery, jQueryUI, HTML5, and CSS3.
 
 ##### Database and Messaging:
-- Experience with Elasticsearch, PostgreSQL, MySQL, MongoDB, Redis, and GraphQL.
-- Competence in implementing messaging systems with RabbitMQ.
+- Experience with PostgreSQL, MySQL, MongoDB, Redis, and Elasticsearch.
+- Implementation of messaging systems using RabbitMQ, MQTT, and Kafka.
+- Data modeling and integration with TypeORM, including object-relational mapping, complex relationships, and query optimization in high-performance environments.
+- Data modeling and integration with Hibernate/JPA, object-relational mapping, and query optimization.
 
 ##### DevOps and Cloud:
-- Skill in creating and maintaining CI/CD pipelines with GitHub Actions.
-- Container management using Docker.
-- In-depth knowledge of AWS services, including EC2, S3, RDS, Lambda, SQS, and SNS.
-- Familiarity with GCP cloud services.
+- Creation and maintenance of CI/CD pipelines using GitHub Actions.
+- Container management with Docker.
+- Deep knowledge of AWS (EC2, S3, RDS, Lambda, SQS, SNS).
+- Familiarity with GCP and Azure cloud services.
+
+##### Code Quality and Testing
+- Proficient in unit, integration, and end-to-end (e2e) testing.
+- Application of SOLID and Clean Code principles to ensure quality, performance, and maintainability.
 
 ##### Additional Experience:
 - 10 years of experience with Magento and Magento 2, with a transition of focus to other technological areas.
-
-##### Code Quality and Testing:
-- Proficiency in unit, integration, and end-to-end (e2e) testing.
-- Constant practice of SOLID principles and Clean Code to ensure code quality and maintainability.
-
-My approach is results-oriented, with a methodology that prioritizes efficiency, quality, and adherence to best practices.
-
